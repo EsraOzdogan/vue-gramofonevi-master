@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "resim":"https://www.gramofonevi.com/uploads/product/8080e-a329768b-b50a-40f7-ac7e-64cf739ef88f-262x184.jpeg",
+        "title": "DÜNYA UÇAK TARİHİ AFİŞ ",
+        "price": 500
+        
+    },
+    {
+        "id": 2,
+        "resim":"https://www.gramofonevi.com/uploads/product/a1446-c7f19af6-d5b6-4471-a001-0b5cd6deff59-262x262.jpeg",
+        "title": "ESKİ DÜNYA HARİTASI(2 parça)",
+        "price": 945
+    },
+    {
+        "id": 3,
+        "resim":"https://www.gramofonevi.com/uploads/product/43fc9-dc69f58c-4366-42b0-bfc5-4a4519d42e2a-262x262.jpeg",
+        "title": "PERGEL,ÖLÇÜ ALETİ",
+        "price": 300
+        
+    },
+    {
+        "id": 4,
+        "resim":"https://www.gramofonevi.com/uploads/product/213d4-ce3b1a02-00f6-4643-9486-bc3e7ef9d7ab-262x302.jpeg",
+        "title": "ESKİ ÇEKİ ÖLÇÜ ALETİ",
+        "price": 150
+        
+    }
+        ,
+    {
+        "id": 5,
+        "resim":"https://www.gramofonevi.com/uploads/product/9ae7c-c71256ad-590c-4a46-b8b2-5447282af308-262x287.jpeg",
+        "title": "SİGARA KUTUSU",
+        "price": 200
+        
+    },
+    {
+        "id": 6,
+        "resim":"https://www.gramofonevi.com/uploads/product/b4489c288c4a591bbc4759623f845a5e531f2c8e-262x262.jpg",
+        "title": "KUTUDA ÇANAKKALE SUBAY DÜRBÜNÜ-1917",
+        "price": 2250
+        
+    },
+    {
+        "id": 7,
+        "resim":"https://www.gramofonevi.com/uploads/product/6a51c7f51ed1c4a7fc9d8940a758623d9810fb01-262x262.jpg",
+        "title": "İNGİLİZ OCAKLI ÇAY SEMAVERİ",
+        "price": 1250
+        
+    },
+    {
+        "id": 8,
+        "resim":"https://www.gramofonevi.com/uploads/product/90051-1805_0_600x600-262x240.jpg",
+        "title": "KENWOOD N46 PİKAP İĞNESİ ",
+        "price": 350
+        
+    },
+    {
+        "id": 9,
+        "resim":"https://www.gramofonevi.com/uploads/product/8daf2372e4d2f40cf8e2afa142728e7fc4f4440f-262x262.jpg",
+        "title": "GÖNÜL YAZILI AHŞAP TABELA",
+        "price": 500
+        
+    },
+    {
+        "id": 10,
+        "resim":"https://www.gramofonevi.com/uploads/product/qb2ih01sxy-262x262.jpg",
+        "title": " YILDIZ ELEKTRİKLİ EKMEK KIZARTMA MAKİNASI ",
+        "price": 250
+        
+    }
+   
+]
+
+
+
+
+
+
+
+
+
+

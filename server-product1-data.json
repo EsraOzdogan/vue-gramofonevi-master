@@ -1,0 +1,97 @@
+[
+    {
+        "id": 1,
+        "resim":"https://www.gramofonevi.com/uploads/product/20522-s-l300--3--262x262.jpg",
+        "title": "SANYO 2601 PİKAP İĞNESİ ",
+        "price": 400
+        
+    },
+    {
+        "id": 2,
+        "resim":"https://www.gramofonevi.com/uploads/product/9b7af-s-l300--2--262x231.jpg",
+        "title": " ACOS m6PİKAP İĞNESİ",
+        "price": 150
+    },
+    {
+        "id": 3,
+        "resim":"https://www.gramofonevi.com/uploads/product/91302-e008901-262x197.jpg",
+        "title": "TOSHIBA N11-C PİKAP İĞNESİ",
+        "price": 150
+        
+    },
+    {
+        "id": 4,
+        "resim":"https://www.gramofonevi.com/uploads/product/21fd1-31vphwefm0l-262x244.jpg",
+        "title": "AIWA 5080 PİKAP İĞNESİ",
+        "price": 150
+        
+    }
+        ,
+    {
+        "id": 5,
+        "resim":"https://www.gramofonevi.com/uploads/product/a5b7f-jvc-le600-record-player-stylus-3223-p-262x221.jpg",
+        "title": "JWC DT-41 PİKAP İĞNESİ",
+        "price": 150
+        
+    },
+    {
+        "id": 6,
+        "resim":"https://www.gramofonevi.com/uploads/product/cfa4f-img_2721_600x600-262x185.jpg",
+        "title": "CEC -MC10 PİKAP İĞNESİ",
+        "price": 150
+        
+    },
+    {
+        "id": 7,
+        "resim":"https://www.gramofonevi.com/uploads/product/719e0-s-l300--1--262x216.jpg",
+        "title": "KENWOOD N-43 PİKAP İĞNESİ",
+        "price": 180
+        
+    },
+    {
+        "id": 8,
+        "resim":"https://www.gramofonevi.com/uploads/product/71784-onkyo-dn-21st-stylus-5866-p-262x221.jpg",
+        "title": "ONKYO DN-41 PİKAP İĞNESİ ",
+        "price": 175
+        
+    },
+    {
+        "id": 9,
+        "resim":"https://www.gramofonevi.com/uploads/product/94d8b-kenwood-n-67-1024x787-262x201.jpg",
+        "title": "SANSUI SNP212 PİKAP İĞNESİ",
+        "price": 150
+        
+    },
+    {
+        "id": 10,
+        "resim":"https://www.gramofonevi.com/uploads/product/3c090-13486-7_1_1-262x262.jpg",
+        "title": " ORTOFON M5P PİKAP İĞNESİ ",
+        "price": 250
+        
+    },
+    {
+        "id": 11,
+        "resim":"https://www.gramofonevi.com/uploads/product/3c090-13486-7_1_1-262x262.jpg",
+        "title": "PIONEER PN-K65 PİKAP İĞNESİ",
+        "price": 140
+        
+    },
+    {
+        "id": 12,
+        "resim":"https://www.gramofonevi.com/uploads/product/9ae28-cec-rs3-transparant-green_1-262x262.jpg",
+        "title": " CEC - RS-5 PİKAP İĞNESİ",
+        "price": 160
+        
+    }
+   
+]
+
+
+
+
+
+
+
+
+
+
