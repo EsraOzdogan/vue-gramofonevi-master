@@ -17,7 +17,6 @@ import ProductList from './app/components/product/ProductList.vue'
 import ProductList1 from './app/components/product/ProductList1.vue'
 import sss from './app/components/sss.vue'
 import sifremiunuttum from './app/components/sifremiunuttum.vue'
-import misafirolarakdevamet from './app/components/misafirolarakdevamet.vue'
 
 
 import VueClazyLoad from 'vue-clazy-load'
@@ -51,7 +50,7 @@ const routes = [
   { path: '/sifreunuttum', component: sifremiunuttum },
   { path: '/objekoleksiyon', component: objekoleksiyonu },
   { path: '/pikapignesi', component: pikapignesi2 },
-  { path: '/misafirolarakdevamet', component: misafirolarakdevamet },
+  { path: '/misafirolarakdevamet, component: misafirolarakdevamet },
 
 
 ]
