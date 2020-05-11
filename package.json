@@ -2,7 +2,7 @@
   "name": " gramofonevi",
   "description": "",
   "version": "1.0.0",
-  "author": "esra Özdoğan",
+  "author": "Esra Özdoğan",
   "private": true,
   "scripts": {
     "start": "concurrently \"npm run server\" \"npm run serve\"",
