@@ -1,8 +1,8 @@
 {
   "name": "shopping_cart",
-  "description": "Project Four: Shopping Cart",
+  "description": "",
   "version": "1.0.0",
-  "author": "Fullstack.io",
+  "author": "esra Özdoğan",
   "private": true,
   "scripts": {
     "start": "concurrently \"npm run server\" \"npm run serve\"",
